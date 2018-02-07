@@ -5,7 +5,7 @@ div.container {
 header, footer {
     padding: lem;
     color: DimGray;
-    background-color: LightCyan;
+    background-color: Ivory;
     clear: left;
     text-align: center;
     font-family: Verdana 
@@ -30,5 +30,5 @@ article {
     overflow: hidden;
 }
 body {
-  background-color: LemonChiffon;
+  background-color: Aliceblue;
 }
