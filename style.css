@@ -6,9 +6,9 @@ div.container {
 header, footer {
     padding: lem;
     color: black;
-    background-color: Ivory;
+    background-color: AliceBlue;
     clear: left;
-    text-align: center;
+    text-align: left;
     font-family: Verdana 
 }
 nav {
@@ -31,5 +31,5 @@ article {
     overflow: hidden;
 }
 body {
-  background-color: Aliceblue;
+  background-color: DimGrey;
 }
