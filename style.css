@@ -1,6 +1,7 @@
 div.container {
     width: 100%;
     border: none;
+    p.double {border-style: double;}
 }
 header, footer {
     padding: lem;
